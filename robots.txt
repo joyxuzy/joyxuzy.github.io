@@ -1,0 +1,6 @@
+User-agent£º*
+ 
+Disallow£º/favicon.ico    
+
+  
+Sitemap£ºhttps://joyxuzy.github.io/sitemap.xml 
